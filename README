@@ -1,0 +1,7 @@
+My Emacs Configuration
+
+- el-get to set jedi
+- jedi for python
+- auctex for preview latex in emacs
+- flyspell mode for word checking
+- hs-mode to fold code 
